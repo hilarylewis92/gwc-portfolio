@@ -1,0 +1,34 @@
+body {
+}
+
+nav {
+  text-align: right;
+  height: 5vh;
+  background-color: #899ec1;
+}
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 10px;
+  display: inline-block;
+}
+
+.profile-photo {
+  border: 5px solid #899ec1;
+}
+
+section.yellow-background {
+  background-color: #c7ecf4;
+  text-align: center;
+  height: 20vh;
+}
+
+#yellow {
+  color: green;
+}
+
+.green-background {
+  background-color: green;
+}
